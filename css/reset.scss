@@ -1,0 +1,44 @@
+a {
+    transition: .3s;
+    background-color: transparent;
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+    border-style: none;
+}
+
+body {
+    position: relative;
+    font-size: 1em;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+ul {
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+    box-sizing: border-box;
+    display: block;
+}
+
+audio, canvas, progress, .video {
+    display: inline-block;
+}
+
+p {
+    margin: 0 auto;
+}
